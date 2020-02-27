@@ -1,8 +1,8 @@
 package com.abuob.linkshortener.controller;
 
 import com.abuob.linkshortener.service.LinkService;
-import com.abuob.lsg.web.CreateLinkRequest;
-import com.abuob.lsg.web.CreateLinkResponse;
+import com.abuob.linkshortener.web.CreateLinkRequest;
+import com.abuob.linkshortener.web.CreateLinkResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

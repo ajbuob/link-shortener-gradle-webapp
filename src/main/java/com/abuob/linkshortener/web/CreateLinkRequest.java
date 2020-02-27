@@ -1,4 +1,4 @@
-package com.abuob.lsg.web;
+package com.abuob.linkshortener.web;
 
 public class CreateLinkRequest {
 
