@@ -19,7 +19,7 @@ This is based on the YouTube tutorial https://www.youtube.com/watch?v=KrxXdnCxiF
         "shortenedLink": "http://localhost:8080/<KEY>"
      }
 ```
-###GET /\<KEY\>
+### GET /\<KEY\>
 #### Response
 Returns 308 (Permanent Redirect) or 404 (Not found) if the submitted KEY has not been mapped to a URL.
 
